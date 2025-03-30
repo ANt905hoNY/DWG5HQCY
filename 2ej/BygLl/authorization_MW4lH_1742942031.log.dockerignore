@@ -1,7 +1,6 @@
 # .git
 .codecov
 .github
-.gitignore
 .dockerignore
 **/Dockerfile
 /k8s/
