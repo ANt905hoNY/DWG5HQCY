@@ -1,7 +1,6 @@
 # Hurl Contributing Guide
 
 Thank you for investing time in our project!
-
 ## Issues
 
 Whether you have discovered a bug, want a new feature in Hurl, or change code, [please fill an issue] or [start a discussion]
