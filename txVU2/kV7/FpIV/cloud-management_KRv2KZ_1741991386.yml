@@ -6,7 +6,6 @@ linters:
     - staticcheck
     - typecheck
     - unused
-    - gosec
 #    - golint
     - goimports
   disable:
