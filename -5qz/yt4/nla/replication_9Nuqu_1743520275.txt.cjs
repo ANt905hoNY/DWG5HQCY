@@ -25,7 +25,6 @@ module.exports = {
     'key-spacing': ['error', {
       'beforeColon': false,
       'afterColon': true,
-      'mode': 'strict',
     }],
     'no-empty': 'error',
     'no-else-return': 'error',
